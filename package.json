@@ -1,0 +1,36 @@
+{
+  "name": "@mooncake-dev/check-symbols",
+  "version": "1.0.0",
+  "description": "Checks if a string of space separated symbols includes a specific one or not.",
+  "main": "src/index.js",
+  "files": [
+    "src/index.js"
+  ],
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src",
+    "lint:format": "npm run lint -- --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danillouz/check-symbols.git"
+  },
+  "keywords": [],
+  "author": "Daniël Illouz <daniel.illouz@me.com> (https://www.danillouz.dev/)",
+  "contributors": [
+    "Daniël Illouz <daniel.illouz@me.com>",
+    "Dinos Theodorou <dinostheo@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danillouz/check-symbols/issues"
+  },
+  "homepage": "https://github.com/danillouz/check-symbols#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "jest": "^24.7.1",
+    "prettier": "^1.17.0"
+  }
+}
