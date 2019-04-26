@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danillouz/check-symbols.git"
+    "url": "git+https://github.com/mooncake-dev/check-symbols.git"
   },
   "keywords": [],
   "author": "Daniël Illouz <daniel.illouz@me.com> (https://www.danillouz.dev/)",
@@ -23,9 +23,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danillouz/check-symbols/issues"
+    "url": "https://github.com/mooncake-dev/check-symbols/issues"
   },
-  "homepage": "https://github.com/danillouz/check-symbols#readme",
+  "homepage": "https://github.com/mooncake-dev/check-symbols#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.2.0",
