@@ -1,6 +1,6 @@
 {
   "name": "@mooncake-dev/check-symbols",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Checks if a string of space separated symbols includes a specific one or not.",
   "main": "src/index.js",
   "files": [
